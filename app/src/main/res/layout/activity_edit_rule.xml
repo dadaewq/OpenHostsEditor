@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     app:layout_collapseParallaxMultiplier="1.0"
-    tools:context="me.vittorio_io.openhostseditor.activities.EditRuleActivity"
+    tools:context="com.modosa.openhostseditor.activities.EditRuleActivity"
     tools:layout_editor_absoluteX="8dp"
     tools:layout_editor_absoluteY="8dp">
 

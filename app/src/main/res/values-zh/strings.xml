@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">设置</string>
+    <string name="action_save">保存</string>
+    <string name="action_restore">恢复</string>
+    <string name="action_edit">编辑</string>
+    <string name="action_delete">删除</string>
+    <string name="action_confirm">确认</string>
+    <string name="action_backup">备份</string>
+    <string name="action_about">关于</string>
+</resources>
